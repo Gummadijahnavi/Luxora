@@ -8,19 +8,9 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
-          earum unde eligendi autem praesentium, doloremque distinctio nesciunt
-          porro tempore quis eaque labore voluptatibus ea necessitatibus
-          exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
-          tempore vel tenetur soluta dolore sunt maxime aliquam corporis est,
-          quo saepe dolorem optio minus sint nemo totam dolorum! Reprehenderit
-          delectus expedita a alias nam recusandae illo debitis repellat libero,
-          quasi explicabo molestiae saepe, dolorem tempore itaque eveniet quam
-          dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
+        Welcome to Luxora, your ultimate destination for a seamless online shopping experience. We aim to redefine e-commerce by offering a diverse range of high-quality products with an intuitive and engaging platform. Whether you're looking for fashion, electronics, or everyday essentials, Luxora provides a smooth and secure shopping experience, ensuring convenience at every step. Our goal is to make online shopping effortless, fast, and enjoyable for everyone.
+
+         Built with modern technologies, Luxora leverages React and Redux for a dynamic user interface, Bootstrap for a responsive and elegant design, and the Fake Store API to deliver real-time product data. With a focus on performance, security, and user experience, Luxora is designed to bring you a hassle-free and efficient way to shop. Explore our collections and enjoy a smarter way to shop online!
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
